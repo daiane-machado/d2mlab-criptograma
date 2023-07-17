@@ -1,0 +1,30 @@
+
+:root {
+	--background: #FCFCFC;
+	--white: #FFFFFF;
+	--black:#000000;
+	--gray-100:#F6F6F6;
+	--gray-200: #F7F7F7;
+	--gray-300:#CFCFCF;
+	--gray-500: #333333;
+	--gray-600:#060606;
+
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+	box-sizing: border-box;
+}
+
+body {
+
+  font-family: 'Poppins', sans-serif;
+  height: 100%;
+  background-color: var(--background);
+  height: 100%;
+}
